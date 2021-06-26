@@ -1,0 +1,14 @@
+main.c:133:6:erase_FLASH	32	static
+main.c:161:6:write_FLASH	24	static
+main.c:174:5:wait_operation	16	static
+main.c:193:6:find_ok	16	static
+main.c:204:6:update_firmware	24	static
+main.c:127:6:move_vector_table_to_RAM	16	static
+main.c:90:6:MX_USART_Init	16	static
+main.c:95:6:setup_GPIOA	4	static
+main.c:100:6:setup_USART1	4	static
+main.c:110:6:setup_DMA1	32	static
+main.c:224:5:main	16	static
+main.c:272:6:SystemClock_Config	72	static
+main.c:308:13:MX_GPIO_Init	16	static
+main.c:324:6:Error_Handler	4	static,ignoring_inline_asm
